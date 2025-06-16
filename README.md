@@ -1,0 +1,1 @@
+This repository contains the necessary data and codes to reproduce the main figures and analyses of "Exotic plant pathogen reduces habitat and foraging activities of a digging mammal". Data can be found in 'Data_Quenda_Pc_Habitats.zip'.
